@@ -28,7 +28,6 @@ Zakres zagadnień:
 - konfiguracja i diagnostyka połączeń sieciowych (IP, DHCP, DNS, gateway),
 - podstawowe narzędzia diagnostyczne (ipconfig, ping, nslookup),
 - rozwiązywanie problemów użytkowników systemu Windows,
-- obsługa zgłoszeń związanych z Microsoft 365 (reset hasła, Outlook, Teams),
 - dokumentowanie rozwiązań w formie ticketów.
 
 Celem repozytorium jest zebranie praktycznych przykładów pracy IT Support, które mogą służyć jako materiał referencyjny oraz uzupełnienie doświadczenia praktycznego.
